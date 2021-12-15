@@ -119,3 +119,22 @@
     background: #e91e63;
     color: white;
   }
+
+  .skills h4 {
+    color: rgb(88, 87, 87);
+  }
+  .skills ul {
+    font-size: 1.1rem;
+  }
+
+  .subskills {
+    padding-left: 25px
+  }
+
+    .subskills p {
+    font-size: 1.2rem;
+  }
+.contact {
+    background: #575656;
+    color: white;
+  }
