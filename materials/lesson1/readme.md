@@ -1,5 +1,5 @@
 ## Draw on Canvas
 
-<img src="./lesson1_brick.png" width="500" align="center">
+<img src="./lesson1_bricks.png" width="500" align="center">
 
 
