@@ -1,4 +1,4 @@
-[[_TOC_]]
+
 
 ### Create a course page.
 
