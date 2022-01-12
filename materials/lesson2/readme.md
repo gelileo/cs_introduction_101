@@ -44,3 +44,12 @@ Run your project, you should see a page with one link to your lesson1 project. C
 Ok, now let's move on!
 
 ### Bouncing Ball
+
+Copy the files in `src/` under `lesson2`
+
+You probably need to create these files first in Replit then copy the content over.
+
+In this project, we draw a ball in the same canvas, and let it bounce around.
+
+Finish the `script.js` and make it work like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
+
