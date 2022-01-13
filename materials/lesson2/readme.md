@@ -45,12 +45,10 @@ Ok, now let's move on!
 
 ### Bouncing Ball
 
-Copy the files in `src/` under `lesson2`
-
-You probably need to create these files first in Replit then copy the content over.
-
-In this project, we draw a ball in the same canvas, and let it bounce around. 
-Every time the ball hits the wall/boundary, it turns around and keep moving.
-
-Read the comments in `script.js`, and complete the script so that it works like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
+- Create a `lesson2/` folder in your Replit project
+- Copy the files under [lesson2/src/](./src) to there
+  - You probably need to create these files first in Replit then copy the content over.
+- In this project, we draw a ball in the same canvas, and let it bounce around. 
+- Every time the ball hits the wall/boundary, it turns around and keep moving.
+- Read the comments in `script.js`, and complete the script so that it works like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
 
