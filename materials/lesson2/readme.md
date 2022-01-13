@@ -49,7 +49,8 @@ Copy the files in `src/` under `lesson2`
 
 You probably need to create these files first in Replit then copy the content over.
 
-In this project, we draw a ball in the same canvas, and let it bounce around.
+In this project, we draw a ball in the same canvas, and let it bounce around. 
+Every time the ball hits the wall/boundary, it turns around and keep moving.
 
-Finish the `script.js` and make it work like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
+Read the comments in `script.js`, and complete the script so that it works like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
 
