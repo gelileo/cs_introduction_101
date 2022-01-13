@@ -13,7 +13,11 @@ var framesPerSecond = 30;
 window.onload = function () {
   canvas = document.getElementById('gameCanvas');
   canvasContext = canvas.getContext('2d');
-
+  /**
+   * function setInterval(someFunc, interval)
+   * takes two parameters: a function and a time interval in milliseconds
+   * The following function call invokes `updateAll` every `(1000 / framesPerSecond)` milliseconds
+   */  
   setInterval(updateAll, 1000 / framesPerSecond);
   drawAll();
 }
@@ -27,10 +31,9 @@ function ballMovement() {
   }
 
   //left
-  if(ballX - ballRadius < 0 && ballSpeedX < 0.0) {
-    ballSpeedX *= -1;
-  }
+  // enter code here to implement the movement when ball hit left boundary
 
+  
   ballY += ballSpeedY;
 
   // bottom
@@ -39,14 +42,14 @@ function ballMovement() {
   }
 
   // top
-  if(ballY - ballRadius < 0 && ballSpeedY < 0.0) {
-    ballSpeedY *= -1;
-  }
+  // enter code here to implement the movement when ball hit top boundary
+ 
 }
 
-function updateAll() {
-  moveAll();
-  drawAll();
+// This is called every few milliseconds
+function updateAll() { 
+  // enter code below to refresh the view
+  
 }
 
 function moveAll() {
