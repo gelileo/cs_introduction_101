@@ -52,3 +52,13 @@ Ok, now let's move on!
 - Every time the ball hits the wall/boundary, it turns around and keep moving.
 - Read the comments in `script.js`, and complete the script so that it works like [this](https://kcs101.kunlu.repl.co/brick/ex2/completed.html)
 
+### Bonus Question
+
+Instead of a bouncing ball, can you make it a bouncing smiley face?
+
+
+**Tip**: `Use Emojis`
+
+Even better, can you make your Emoji changes face on every move?
+
+
