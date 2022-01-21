@@ -54,10 +54,10 @@ function drawMouse() {
 
   text(`(${mouseX}, ${mouseY})`, mouseX, mouseY, 'yellow', '12px Arial');
   
-  var mouseBrickCol = Math.floor(mouseX / BRICK_WIDTH);
-  var mouseBrickRow = Math.floor(mouseY / BRICK_HEIGHT);
-  var brickIndexUnderMouse = rowColToArrayIndex(mouseBrickCol, mouseBrickRow);
-  text(mouseBrickCol + "," + mouseBrickRow + ":" + brickIndexUnderMouse, 200, 100, 'yellow', '12px Arial');
+//   var mouseBrickCol = Math.floor(mouseX / BRICK_WIDTH);
+//   var mouseBrickRow = Math.floor(mouseY / BRICK_HEIGHT);
+//   var brickIndexUnderMouse = rowColToArrayIndex(mouseBrickCol, mouseBrickRow);
+//   text(mouseBrickCol + "," + mouseBrickRow + ":" + brickIndexUnderMouse, 200, 100, 'yellow', '12px Arial');
 }
 
 function updateAll() {
